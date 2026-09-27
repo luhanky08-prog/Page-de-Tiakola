@@ -1,0 +1,21 @@
+header{
+margin-bottom: 50px;
+}
+
+.conteneur{
+    margin-bottom: 30px;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    
+}
+
+.UNO p {
+    color: black;
+    font-style: italic;
+    font-size: 55px;
+}
+
+a{
+   box-shadow: 0 0px 25px rgb(10, 13, 81)  
+}

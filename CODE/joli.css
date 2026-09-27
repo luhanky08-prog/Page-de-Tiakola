@@ -1,0 +1,28 @@
+body{background-color: rgb(255, 255, 255);
+}
+
+img{
+    box-shadow: 0 0px 25px rgb(10, 13, 81)
+}
+
+h3{color: rgb(0, 0, 0);
+    font-style: italic;
+    font-size: 60px;
+}
+h2{color: rgb(0, 0, 0);
+    font-style: italic;
+    font-size: 40px;
+    text-shadow: 0 0px 25px rgb(246, 226, 226)
+}
+.conteneur{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    
+}
+
+.texte p {
+    color: black;
+    font-style: italic;
+    font-size: 55px;
+}
